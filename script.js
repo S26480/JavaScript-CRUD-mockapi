@@ -1,5 +1,4 @@
 // Base URL of the MockAPI
-const api_base_url="https://6ac3ecc6ae53bf25b80f24c0.mockapi.io/api";
 
 // Function to fetch all users
 async function getUsers(){
@@ -121,5 +120,5 @@ async function deleteUser(id){
 }
 
 // Delete the user with ID 8
-deleteUser(6);
+deleteUser(2);
 
